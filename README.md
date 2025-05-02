@@ -1,15 +1,16 @@
 # 👋 Hello, World! I'm Melvin  
 
 Welcome to my little corner of the internet 🌐 where code and creativity collide! 💥  
-I'm a **Frontend Developer** 🚀 and a **wannabe comedian** (but only my console logs laugh at my jokes).  
+I'm a **Fullstack Developer** 🚀 (yes, I do both frontend and backend) and a **wannabe comedian** (but only my console logs laugh at my jokes).  
 
 ---
 
 ## 🚀 About Me  
-- 🎨 I build sleek, responsive websites with **React** & **Tailwind CSS**.  
+- 🎨 I craft sleek, responsive UIs with **React** & **Tailwind CSS**.  
+- 🔧 On the backend, I build powerful APIs with **NestJS** and **Express**.  
 - 🤖 Currently exploring the realms of **AI and Web3**.  
 - 💻 Contributing to open-source projects on **OnlyDust** (Web3 for the win!).  
-- 🎯 2025 Goals: Build a **SaaS**, create an **AI app**, and land an awesome **job**.  
+- 🎯 2025 Goals: Build a **SaaS**, launch an **AI app**, and land an awesome **job**.  
 
 ---
 
@@ -24,7 +25,7 @@ I'm a **Frontend Developer** 🚀 and a **wannabe comedian** (but only my consol
 ```js
 {
   "languages": ["JavaScript", "HTML", "CSS"],
-  "frameworks": ["React", "Tailwind CSS", "Next.js"],
+  "frameworks": ["React", "Next.js", "Tailwind CSS", "NestJS", "Express"],
   "tools": ["Framer Motion", "Git"],
-  "learning": ["Redux", "node.js"]
+  "learning": ["Redux", "Node.js"]
 }
